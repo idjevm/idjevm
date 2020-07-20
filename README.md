@@ -7,6 +7,7 @@ This is a place holder / starter repo for our website for everyone working on th
 - [GatsbyJS](https://www.gatsbyjs.org/)
 - [ReactJS](https://reactjs.org/)
 - [Material-UI](https://material-ui.com/)
+- [Styled Components](https://styled-components.com/)
 
 ## Dev dependecies
 - [Prettier](https://prettier.io/)

@@ -1,6 +1,6 @@
 <h2> Hey 👋🏻, I'm JV! <img src="https://katalinszilardhungarianspecializedtranslations.files.wordpress.com/2018/05/tumblr_o2a9wxkfxi1r6l65eo1_1280.gif" width="50"></h2>
 <img align='right' src="https://cdn.dribbble.com/users/3955123/screenshots/7133287/image.gif" width="230">
-<p><em>Software Enginner Volunteer at <a href="https://fightpandemics.com">FightPandemcis</a></br>Full Stack Developer Trainee @ <a href="https://platformbyps.org/">Platform by PerScholas</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer Volunteer at <a href="https://fightpandemics.com">FightPandemcis</a></br>Full Stack Developer Trainee @ <a href="https://platformbyps.org/">Platform by PerScholas</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: idjevm](https://img.shields.io/badge/-idjevm-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idjevm/)](https://www.linkedin.com/in/idjevm/)

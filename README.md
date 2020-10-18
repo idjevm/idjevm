@@ -12,7 +12,7 @@
 ```javascript
 const JV = {
   pronouns: "He" | "Him",
-  code: [Javascript, Java, HTML5, CSS3],
+  code: [JavaScript, Java, HTML5, CSS3],
   tools: [React, Node, Styled-Components, Docker],
 }
 ```

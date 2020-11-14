@@ -13,7 +13,7 @@ Software Engineer Volunteer @ <a href="https://github.com/FightPandemics/FightPa
 ```javascript
 const JV = {
   pronouns: "He" | "Him",
-  code: [JavaScript, Java, HTML5, CSS3],
+  code: [Java, JavaScript, HTML5, CSS3],
   tools: [React, Node, Styled-Components, Docker],
 }
 ```

@@ -1,6 +1,6 @@
 <h2> Hey 👋🏻, I'm JV! <img src="https://katalinszilardhungarianspecializedtranslations.files.wordpress.com/2018/05/tumblr_o2a9wxkfxi1r6l65eo1_1280.gif" width="50"></h2>
 <img align='right' src="https://cdn.dribbble.com/users/3955123/screenshots/7133287/image.gif" width="230">
-<p><em>Integrations Engineer @ <a href="https://goswift.ly/" target="_blank">Swiftly, Inc.</a> <br/>
+<p><em>Software Engineer II @ <a href="https://goswift.ly/" target="_blank">Swiftly, Inc.</a> <br/>
 Software Engineer Volunteer @ <a href="https://github.com/FightPandemics/FightPandemics" target="_blank">FightPandemcis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
